@@ -318,9 +318,7 @@ Solution: Delete vocab_progress.json to reset (progress will be lost)
 - Test with different vocabulary sizes
 - Ensure cross-platform compatibility
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -331,5 +329,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Happy Learning! 🎉**
-
-For questions or support, please open an issue on GitHub or contact [your-email@example.com](mailto:your-email@example.com).

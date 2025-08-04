@@ -18,7 +18,7 @@ An intelligent desktop application for learning Spanish vocabulary using spaced 
 - [Use Cases](#use-cases)
 - [File Structure](#file-structure)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## ✨ Features
 
